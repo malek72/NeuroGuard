@@ -1,6 +1,6 @@
 # NeuroGuard
 
-![Project Banner](https://github.com/yourusername/mental-health-support-ai/blob/main/banner.png)
+![Project Banner](https://github.com/malek72/NeuroGuard/blob/main/Screenshot%202024-12-27%20at%2016.10.28.png)
 
 ## Table of Contents
 
